@@ -7,3 +7,5 @@
 */*.gz
 */*.xz
 */*.sign
+*/*.pkg.tar
+rebuild.sh
